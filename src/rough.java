@@ -5,17 +5,7 @@ public class rough {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-//			Scanner scan = new Scanner(System.in);
-//			
-//			System.out.println("enter the marks");
-//			int n = scan.nextInt();
-//			
-//			if( n < 80 && n > 100);
-//				System.out.println("print a");
-//			
-//			else if (n <= 85 && n > 95);
-//			System.out.println("print b");
-			
+
 	
 	
 	
